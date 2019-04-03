@@ -1,3 +1,15 @@
+.content {
+  max-width: 640px;
+  margin: auto;
+}
+
+.shText {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+
 body {
   background-color: rgb(100, 0, 100);
 }
