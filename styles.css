@@ -1,9 +1,13 @@
 .content {
-  height:80vh;
+  height:85vh;
 }
 
 .aligncenter {
   text-align: center;
+}
+
+img {
+  height: 10vh;
 }
 
 body {
