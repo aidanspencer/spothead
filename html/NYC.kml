@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NYC</name>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Alligator Ledge</name>
+      <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/qr4GXvHUyxqoEi-4INzhg9I1S4M8vJc-2aEVYMfQSEsCLENsvelgBzkPyyNl6agbvwvLWHYkLkmcrprey-XJh8Frd1ZT_GNUzLP0eh7jD1VuM30" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh5.googleusercontent.com/proxy/qr4GXvHUyxqoEi-4INzhg9I1S4M8vJc-2aEVYMfQSEsCLENsvelgBzkPyyNl6agbvwvLWHYkLkmcrprey-XJh8Frd1ZT_GNUzLP0eh7jD1VuM30</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.9780283,40.7123578,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Columbus Park</name>
+      <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/3y10JCYQ4sddo4XYTfSgZz6HhCsf9CDyU4bTW4oz93Fx_qkyUQcNosVkNNO1snLKJTwtabHZLSq6ZOuoKx7gF-vKv74USnV_pggxDM2Ptmi9Vfs" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh6.googleusercontent.com/proxy/3y10JCYQ4sddo4XYTfSgZz6HhCsf9CDyU4bTW4oz93Fx_qkyUQcNosVkNNO1snLKJTwtabHZLSq6ZOuoKx7gF-vKv74USnV_pggxDM2Ptmi9Vfs</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -74.0000358,40.7144031,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D7</name>
+      <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/YR_10FC8v_t2CMtViLVM8Z-Y6-qoiEQktvpnryK77Lr9icWbmn57F-UUcdZjxUGRxUN40Qt9mvL3wAsZs9a3da2pF2OXmihNzcI5mlY0308N9FpiRZ4s" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh5.googleusercontent.com/proxy/YR_10FC8v_t2CMtViLVM8Z-Y6-qoiEQktvpnryK77Lr9icWbmn57F-UUcdZjxUGRxUN40Qt9mvL3wAsZs9a3da2pF2OXmihNzcI5mlY0308N9FpiRZ4s</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.9754748,40.7227136,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tompkins Square Park</name>
+      <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/E5eNxwJ9VxOf35Lwutke8AuezYD7Gz9xpNNRk4jgZC4M98jZ52T9d3GUKVTEbOXt1QFZnv_qHqa9ArpHkCJXKHgXKZFWXn8oMD75vFWB54wwNvua83kblp9FeQ4drbEMjTmIs5NJ2Q" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh6.googleusercontent.com/proxy/E5eNxwJ9VxOf35Lwutke8AuezYD7Gz9xpNNRk4jgZC4M98jZ52T9d3GUKVTEbOXt1QFZnv_qHqa9ArpHkCJXKHgXKZFWXn8oMD75vFWB54wwNvua83kblp9FeQ4drbEMjTmIs5NJ2Q</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.9822836,40.7273055,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Black Hubba</name>
+      <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/SnVfS2_NMBS6KVhCCnpmt2Q_-iP5tYsBRde12UYtKF19hDk6pAYcyypRJFo0uSmfZ8PUlux_7yR7jwTdWJEY14EpL66ywNyg1UVeqy6dH1W6FBfOmVE" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh5.googleusercontent.com/proxy/SnVfS2_NMBS6KVhCCnpmt2Q_-iP5tYsBRde12UYtKF19hDk6pAYcyypRJFo0uSmfZ8PUlux_7yR7jwTdWJEY14EpL66ywNyg1UVeqy6dH1W6FBfOmVE</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -74.0029058,40.7144844,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brooklyn Banks</name>
+      <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/lNatAkIpeSvBKEepPMl4l2YfbYVnVogVyl7qvufoY7caMmWWRRZjXdBhMqFhs1LINp2X4OrRhMrr1cGp33YnJ5mqyCxeunugp2bz-b37" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh6.googleusercontent.com/proxy/lNatAkIpeSvBKEepPMl4l2YfbYVnVogVyl7qvufoY7caMmWWRRZjXdBhMqFhs1LINp2X4OrRhMrr1cGp33YnJ5mqyCxeunugp2bz-b37</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -74.002592,40.7108777,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Canal Fountain</name>
+      <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/Hnjm5irAHA9QTajGaoNhiIObM_0Wpu80lSWtLsMMMIMyluitHGo7O4TipEnOziucl9mWv5Qg8e6j29GdJHDKVz6D1KzPKbOaJl3NUoiMXStEIEgjhg" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh6.googleusercontent.com/proxy/Hnjm5irAHA9QTajGaoNhiIObM_0Wpu80lSWtLsMMMIMyluitHGo7O4TipEnOziucl9mWv5Qg8e6j29GdJHDKVz6D1KzPKbOaJl3NUoiMXStEIEgjhg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -74.0057516,40.7219005,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Three Up Three Down</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/VXHmm2QI30UAvqmz517Y1TXNL_uSzQ3HHJHTjmonjOnr3u4_SZVhgLDRiH3-ZVbWIy-O_8HesG4Fs0HoXwtROEn1UDJV-UrWV-j-w1Td5H6cZI0" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/proxy/VXHmm2QI30UAvqmz517Y1TXNL_uSzQ3HHJHTjmonjOnr3u4_SZVhgLDRiH3-ZVbWIy-O_8HesG4Fs0HoXwtROEn1UDJV-UrWV-j-w1Td5H6cZI0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -74.0117303,40.7254355,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Union Square</name>
+      <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/ydTVyIOAoTLAbCrgAlsqcubIsQhPyfhPrRCyxzAyp3ogKZVH90eEMaFZYCisjL3rXhR17LiKF81QgNOpDVufpnWddUTk0iEKeY432oyjmmHsbOQ" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh6.googleusercontent.com/proxy/ydTVyIOAoTLAbCrgAlsqcubIsQhPyfhPrRCyxzAyp3ogKZVH90eEMaFZYCisjL3rXhR17LiKF81QgNOpDVufpnWddUTk0iEKeY432oyjmmHsbOQ</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.9910781,40.7350138,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Washington Square Park</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/DMY4OBfDBrJaqvag2pg6Qja-_SdY8nB_4C0S6q2R9I7ouuePQmwm7nnX62cX1Ne2tTQk0jvtRKeBkOVWIk3UGSGZLJMzqLt7d9yWWDepRKjMsIw" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/proxy/DMY4OBfDBrJaqvag2pg6Qja-_SdY8nB_4C0S6q2R9I7ouuePQmwm7nnX62cX1Ne2tTQk0jvtRKeBkOVWIk3UGSGZLJMzqLt7d9yWWDepRKjMsIw</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.9975226,40.730706,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Columbus Circle</name>
+      <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/hUvVdz8CSvd2NACpXnJsTN8uIsg3wiE4qjVIPrqqe2P6uquNv8ENE5asvwu3KLyNxQ0YTtgOqnPl8tR-v76ZU3ZEcMPtzltEdx-uqlAEskvoYGw" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh5.googleusercontent.com/proxy/hUvVdz8CSvd2NACpXnJsTN8uIsg3wiE4qjVIPrqqe2P6uquNv8ENE5asvwu3KLyNxQ0YTtgOqnPl8tR-v76ZU3ZEcMPtzltEdx-uqlAEskvoYGw</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.9823722,40.7680441,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FedEx</name>
+      <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/svt7xVxHX3pQ99Bj6R5oLm2POSt5JjNkHnYhFwHz6hO5kRWMRUbQ50dcnzyjs_olJshZrzUiqmOdGX5pNZbHceouB4z3HNVFljL0p3A" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh6.googleusercontent.com/proxy/svt7xVxHX3pQ99Bj6R5oLm2POSt5JjNkHnYhFwHz6hO5kRWMRUbQ50dcnzyjs_olJshZrzUiqmOdGX5pNZbHceouB4z3HNVFljL0p3A</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.9752688,40.7552916,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Up Rails</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/hhgwSUSKWCL6sTxBPPyV6UH55mqSYj4DUSuta4i8cjYWgvW3Kj5d_4tzlI1BNyf0To5xjKLK75g4lXv9FgtQXq_xCam1xXyKdusSTqrjE2_Zmx0" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/proxy/hhgwSUSKWCL6sTxBPPyV6UH55mqSYj4DUSuta4i8cjYWgvW3Kj5d_4tzlI1BNyf0To5xjKLK75g4lXv9FgtQXq_xCam1xXyKdusSTqrjE2_Zmx0</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -74.0042321,40.7585581,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chinatown Manual Pad</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/U9a_NeSncn66vRYsveuQ7nGf7Bkag840hbu7pRx-9Kr0jvNXnaNpBXO5Q-AD2PMY3mxThWCk_Er-VZAztCa_oH5Ji4ap-uUfPrWQxHlzFhiUVDZLVyL3kzlhag" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/proxy/U9a_NeSncn66vRYsveuQ7nGf7Bkag840hbu7pRx-9Kr0jvNXnaNpBXO5Q-AD2PMY3mxThWCk_Er-VZAztCa_oH5Ji4ap-uUfPrWQxHlzFhiUVDZLVyL3kzlhag</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.9969808,40.7116645,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Popeye's Ledge]]></name>
+      <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/TEI_vPDp2KIdUpzRaWFZl3NNpTliptM7b3rt8waF18EtpjschdWFtOHyWzdd_3ubpiDKd-lY-x6MusPFuT57Z6jgrLtjVz4zIlom5sahHZCzYrg" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh4.googleusercontent.com/proxy/TEI_vPDp2KIdUpzRaWFZl3NNpTliptM7b3rt8waF18EtpjschdWFtOHyWzdd_3ubpiDKd-lY-x6MusPFuT57Z6jgrLtjVz4zIlom5sahHZCzYrg</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.9946257,40.7157342,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Battery Park City</name>
+      <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/d5DIxAB4uKJ0WoxWAtt342tF3wtH3c09j_8JDyMw9eKvBi5i4RJLr5kpu83lIGsoRfqC9M8VXbwSlCPMIwyphocvsnELFhsWIUbRdlQ6HLE" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh6.googleusercontent.com/proxy/d5DIxAB4uKJ0WoxWAtt342tF3wtH3c09j_8JDyMw9eKvBi5i4RJLr5kpu83lIGsoRfqC9M8VXbwSlCPMIwyphocvsnELFhsWIUbRdlQ6HLE</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -74.016062,40.7128498,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Courthouse Drop</name>
+      <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/NynwPHhRFcgrI-zZAcdYvXP4-Xsqoglu7pSvd6jlClKAXrUP5NFOnW3_53_mEyUJ_bhDytiA8gdxc6zjFz4JROhgCw95dYk8IodaqLBlcFBwslU" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh4.googleusercontent.com/proxy/NynwPHhRFcgrI-zZAcdYvXP4-Xsqoglu7pSvd6jlClKAXrUP5NFOnW3_53_mEyUJ_bhDytiA8gdxc6zjFz4JROhgCw95dYk8IodaqLBlcFBwslU</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -74.0022808,40.7146206,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blue Park</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/3CuMMVbfPXzVQzTOxBfHsaTQeYdj3Iu7pWQHP7WjaLuITlQZPLevmw_YOQhGbvnaHILpkif5vJKwFqcRenPi3sG8-f365k2lqbEx1sLdn2laJmGA" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/proxy/3CuMMVbfPXzVQzTOxBfHsaTQeYdj3Iu7pWQHP7WjaLuITlQZPLevmw_YOQhGbvnaHILpkif5vJKwFqcRenPi3sG8-f365k2lqbEx1sLdn2laJmGA</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.9449533,40.7087755,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paris Spot</name>
+      <description><![CDATA[<img src="https://doc-0s-14-mymaps.googleusercontent.com/untrusted/hostedimage/odiarddut9neqsjom2t7q2ph00/bg6tp2gl7873j8vkntb80ehirc/1597862578000/td0Buq8W9LYKmsDXrJ3Td8fOwI-YbLO1/05934201298531098556/5AF2TALqEEJvxW9Fv_76mnACEhfBWo0oMkS_6bbz288H_WKYXOasQLakw0dcE2fQP_AnRlYNOFB_z7D32Z8XFNyG5jbrOVkcAeRXO6q0-Ro3h_ehN1FCoBDFBUS_hG7z9vz7MYwttodsLpDgc9lXy6pzSZWEAOqjvu1P1GbVR81YLFKx73pvzR_hY_h_Rj9zOu3wcHBvWs-XknNKanwpxl0vZZD_t-HHZTbHDL82S_B0q5dbeOMNuuU0dg-yO9YEolJsavgOtrBDeDqktQDUJgCiVnXtz45CWtA?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-14-mymaps.googleusercontent.com/untrusted/hostedimage/odiarddut9neqsjom2t7q2ph00/bg6tp2gl7873j8vkntb80ehirc/1597862578000/td0Buq8W9LYKmsDXrJ3Td8fOwI-YbLO1/05934201298531098556/5AF2TALqEEJvxW9Fv_76mnACEhfBWo0oMkS_6bbz288H_WKYXOasQLakw0dcE2fQP_AnRlYNOFB_z7D32Z8XFNyG5jbrOVkcAeRXO6q0-Ro3h_ehN1FCoBDFBUS_hG7z9vz7MYwttodsLpDgc9lXy6pzSZWEAOqjvu1P1GbVR81YLFKx73pvzR_hY_h_Rj9zOu3wcHBvWs-XknNKanwpxl0vZZD_t-HHZTbHDL82S_B0q5dbeOMNuuU0dg-yO9YEolJsavgOtrBDeDqktQDUJgCiVnXtz45CWtA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.9907312,40.6930935,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BQE</name>
+      <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/P5t8sRzvK5D_-hnTcciGmObKCU6Wf5-gSa3mM6p6ZhKBKrN62ZrrGX6818C9SujaJN_rLRsixZp3C4LJPhrOtwu6BpFz62EAbIrm5H-XLH2iLcs" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh5.googleusercontent.com/proxy/P5t8sRzvK5D_-hnTcciGmObKCU6Wf5-gSa3mM6p6ZhKBKrN62ZrrGX6818C9SujaJN_rLRsixZp3C4LJPhrOtwu6BpFz62EAbIrm5H-XLH2iLcs</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.9453644,40.7192741,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fish Gap</name>
+      <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/e4-UAZzPerwCHUBNSlgoag3ztFbW0qzHxZ5_nQKi1MnuO_97VmSIyiTqMaGPYjsucOs5ym0kZQsGWl-8XJtguNrwFo2wGs4K82jbSqdcuvujCjc" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh5.googleusercontent.com/proxy/e4-UAZzPerwCHUBNSlgoag3ztFbW0qzHxZ5_nQKi1MnuO_97VmSIyiTqMaGPYjsucOs5ym0kZQsGWl-8XJtguNrwFo2wGs4K82jbSqdcuvujCjc</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.9677742,40.6973783,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fort Greene</name>
+      <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/OD5mteGfkSTvgcaE0aDEJ-aMu7VeIU7sZEgID8utHGvLXASDb5yIU2cXOU-VlAgJD0YFVoh1NsM99EVu72eZr4vCD-_XT25yqIIPpp07WW0lCvo" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh5.googleusercontent.com/proxy/OD5mteGfkSTvgcaE0aDEJ-aMu7VeIU7sZEgID8utHGvLXASDb5yIU2cXOU-VlAgJD0YFVoh1NsM99EVu72eZr4vCD-_XT25yqIIPpp07WW0lCvo</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.9753317,40.6914866,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kent Ave Step</name>
+      <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/rOmdTj8xJGGea3NP2np7BveHO9ltIItsSukrRLIo07Fe09wRyfu3VD8fRKR3EbJ8APtaF2U6rGhjHoPZ2HTS9YmZ26s6FdjsQ4Np6xnBxKi6TLQ" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh3.googleusercontent.com/proxy/rOmdTj8xJGGea3NP2np7BveHO9ltIItsSukrRLIo07Fe09wRyfu3VD8fRKR3EbJ8APtaF2U6rGhjHoPZ2HTS9YmZ26s6FdjsQ4Np6xnBxKi6TLQ</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.9682969,40.7114394,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maria Hernandez Park</name>
+      <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/I_BO9VN9-qEe46lyK7y189CcDEwuyuUSO8Lo2F19gFVYFRVYzZxjIrq6fgvDgH9nY_D6Mzw4mGK8f-98AMCakx15IxNekpk87-SZ2RDfUuL-F-s" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh6.googleusercontent.com/proxy/I_BO9VN9-qEe46lyK7y189CcDEwuyuUSO8Lo2F19gFVYFRVYzZxjIrq6fgvDgH9nY_D6Mzw4mGK8f-98AMCakx15IxNekpk87-SZ2RDfUuL-F-s</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.9236409,40.7035887,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Polish Park Ledges</name>
+      <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/DTxyV6jDWmXrllNv719P3u7Vsh10aC_3c10HQxwdibXQB2FSNhG0EIOZ92yxDBf9uCgxwynO-rf6HVZRHW3bJ93DxNGLd7dsORZWzPg5NoaRR8hljWU" height="200" width="auto" /><br><br>Pretty good granite ledges. Usually don't need wax but some parts have gotten chunky, especially the ends.<br><br>Bust Factor - Low: <br>Public park that's usually pretty empty other than people passing through. Cops shouldn't give you a hard time here. ]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh6.googleusercontent.com/proxy/DTxyV6jDWmXrllNv719P3u7Vsh10aC_3c10HQxwdibXQB2FSNhG0EIOZ92yxDBf9uCgxwynO-rf6HVZRHW3bJ93DxNGLd7dsORZWzPg5NoaRR8hljWU</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.9447582,40.7208129,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pratt</name>
+      <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/-52CY94fr_A9IFVVN_5CE-mEW9ALx_4C1xth6t-yC2ysxI1qJcvi8yzRj8HhYLbqwLhW8LpGYf0vnwbuwt1uVi8zVvw2d5M7Lv2sFfsMDCNdUww" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh4.googleusercontent.com/proxy/-52CY94fr_A9IFVVN_5CE-mEW9ALx_4C1xth6t-yC2ysxI1qJcvi8yzRj8HhYLbqwLhW8LpGYf0vnwbuwt1uVi8zVvw2d5M7Lv2sFfsMDCNdUww</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.964597,40.6878257,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brooklyn Post Office</name>
+      <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/DR8aREtoagsHQe10SqN9dXn9gFS_zr3kBZrhLxH9qNPeBLSFpEOyUpLeq2_knUpfAb8RrujG3xD8B-q9WE-k6p9pYX-7F0F4MMCnBJY8L2ZWq6u_dhRo0g" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh4.googleusercontent.com/proxy/DR8aREtoagsHQe10SqN9dXn9gFS_zr3kBZrhLxH9qNPeBLSFpEOyUpLeq2_knUpfAb8RrujG3xD8B-q9WE-k6p9pYX-7F0F4MMCnBJY8L2ZWq6u_dhRo0g</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.9899668,40.6965771,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Monument Spot</name>
+      <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/_cWMJG7WoGkC7bvpKKP7rvfeSXKVheTVE1Qq1exIUMJBYYasGf78xzXtkvJg7FF9bAUlfxQuf4ToWON4P9ryCsLkFczLk4COXcftDZ7HbRZVT-gcFJjp548" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh6.googleusercontent.com/proxy/_cWMJG7WoGkC7bvpKKP7rvfeSXKVheTVE1Qq1exIUMJBYYasGf78xzXtkvJg7FF9bAUlfxQuf4ToWON4P9ryCsLkFczLk4COXcftDZ7HbRZVT-gcFJjp548</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.9604368,40.7105798,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tompkins Park</name>
+      <description><![CDATA[<img src="https://doc-0c-14-mymaps.googleusercontent.com/untrusted/hostedimage/odiarddut9neqsjom2t7q2ph00/vn3s8hvhd5qjtn4lhu2355dnc8/1597862578000/td0Buq8W9LYKmsDXrJ3Td8fOwI-YbLO1/05934201298531098556/5AF2TALpkmkc1WFoKCeu0Zi_jiz31vYYOhcnuSKSJNETZlPy5xxJMwgtdlINQ-IZ6zHCY9ojB-Hy-PAKA94Rx5IO09ow1UUr6iQ_AQ3J_-tbwTfa58WkelBjp4CrU_hiYn6TQzMbHkllxOBZL7zbgsW2cDsKtuTaxLbhuwiFC6EvMSaMlVyvZW-SIibf2ckPOu8hEJkGwadw1yjuJVyiNv5OniMRrg3mJv7FId_bEGQfPXDrZmxlvf-DgTX3LUeARjKcCQ9vaUN8LxvgLfhAVdHZkgxLCZQrgKA?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-14-mymaps.googleusercontent.com/untrusted/hostedimage/odiarddut9neqsjom2t7q2ph00/vn3s8hvhd5qjtn4lhu2355dnc8/1597862578000/td0Buq8W9LYKmsDXrJ3Td8fOwI-YbLO1/05934201298531098556/5AF2TALpkmkc1WFoKCeu0Zi_jiz31vYYOhcnuSKSJNETZlPy5xxJMwgtdlINQ-IZ6zHCY9ojB-Hy-PAKA94Rx5IO09ow1UUr6iQ_AQ3J_-tbwTfa58WkelBjp4CrU_hiYn6TQzMbHkllxOBZL7zbgsW2cDsKtuTaxLbhuwiFC6EvMSaMlVyvZW-SIibf2ckPOu8hEJkGwadw1yjuJVyiNv5OniMRrg3mJv7FId_bEGQfPXDrZmxlvf-DgTX3LUeARjKcCQ9vaUN8LxvgLfhAVdHZkgxLCZQrgKA?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.946979,40.6900022,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Couch Spot</name>
+      <description><![CDATA[<img src="https://doc-0k-14-mymaps.googleusercontent.com/untrusted/hostedimage/odiarddut9neqsjom2t7q2ph00/9pch5q0fhr71o09iv4va8o1rk8/1597862578000/td0Buq8W9LYKmsDXrJ3Td8fOwI-YbLO1/05934201298531098556/5AF2TALr3Sxs1NubOz7R2xQWgnS8WNlDLBhlQglhSvX5TaAhcI2nCCmZQLcHKOn8becI8i6i_fE_YiZGEtVNJvJLzBem5Cpxzhv91jMmiUPcoSuYOgYYo09_fvjOFUPpWx8TDWCmpc7g8X0aBj4Nw1E1jFObjyiajcW8FtUfJQ6bTm91YkWh0y7djkmDrgFxHUrMzkoRh5Y03bxqlSomwuh2yWwOUe3wwgBB0wJWvqJ_xXi6c6drU6qpKHmlfqRc1jsO_t3YfEfU8LY2Riesppbjc-1iDUtoI2w?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0k-14-mymaps.googleusercontent.com/untrusted/hostedimage/odiarddut9neqsjom2t7q2ph00/9pch5q0fhr71o09iv4va8o1rk8/1597862578000/td0Buq8W9LYKmsDXrJ3Td8fOwI-YbLO1/05934201298531098556/5AF2TALr3Sxs1NubOz7R2xQWgnS8WNlDLBhlQglhSvX5TaAhcI2nCCmZQLcHKOn8becI8i6i_fE_YiZGEtVNJvJLzBem5Cpxzhv91jMmiUPcoSuYOgYYo09_fvjOFUPpWx8TDWCmpc7g8X0aBj4Nw1E1jFObjyiajcW8FtUfJQ6bTm91YkWh0y7djkmDrgFxHUrMzkoRh5Y03bxqlSomwuh2yWwOUe3wwgBB0wJWvqJ_xXi6c6drU6qpKHmlfqRc1jsO_t3YfEfU8LY2Riesppbjc-1iDUtoI2w?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.9519524,40.7219812,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>McColrick Park</name>
+      <description><![CDATA[<img src="https://doc-0g-14-mymaps.googleusercontent.com/untrusted/hostedimage/odiarddut9neqsjom2t7q2ph00/eaa5jh3gvr59o615082k85p6gk/1597862578000/td0Buq8W9LYKmsDXrJ3Td8fOwI-YbLO1/05934201298531098556/5AF2TALoz_wssrJKwlTMjoMQi_fcrecuFTUzfaEAfeHoV-Qvv1cNZEiY0hRL6x11iVDwQMgDLEXTFhhAaeeqSwT_VSfBWnvTEUSxXzU1HdMg9umEDzMffMUjjRvVyLueqfiBRRrBaDkl2Zm10k05x3lNnzgiC7_okFUtF5rynPfCTSSbB3tyUrXM6HBG6hLQWnjYOmv_wGJ_rUs-J3kgs5Z-XERfuKDC34QRU9o0LStjIhEiyv7axweE3PvjKu9B2ZhBa0cPe-S033CXC5u09yKeX42fgN8vf9Q?session=0&fife" height="200" width="auto" /><br><br>best slappy curb also some ledges and flat gap<br><br><img src="https://doc-14-14-mymaps.googleusercontent.com/untrusted/hostedimage/odiarddut9neqsjom2t7q2ph00/mnti7chs0m5553khd50vrllhps/1597862578000/td0Buq8W9LYKmsDXrJ3Td8fOwI-YbLO1/05934201298531098556/5AF2TALqB0XkMFz5IkKK_9xrwAlkDXHSW9KIkveN3Z7Bz9G_Xe8eMNqWuTAA9QKMtsVMQxlNRs-jq8zJRwNaOYchNesJRqPtPRW-s3PTGQC9uL8lyIsj3tt5p07oXrd6GPepq2uCDtQfiuFNKT7__3SnCQ6NiiO_OpT_YW6TXZuxptSNqE1BvDv8simdga9f71zDKwo22scpe-YlQte7z8sF6-kMv4dfYXHfY-HGOPlBbfLbJnAyYv3AJHhPVjgKC58VqF9ft5cVK5Ua30_7vxzVAXBQh6MapjQ?session=0&fife" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-14-mymaps.googleusercontent.com/untrusted/hostedimage/odiarddut9neqsjom2t7q2ph00/eaa5jh3gvr59o615082k85p6gk/1597862578000/td0Buq8W9LYKmsDXrJ3Td8fOwI-YbLO1/05934201298531098556/5AF2TALoz_wssrJKwlTMjoMQi_fcrecuFTUzfaEAfeHoV-Qvv1cNZEiY0hRL6x11iVDwQMgDLEXTFhhAaeeqSwT_VSfBWnvTEUSxXzU1HdMg9umEDzMffMUjjRvVyLueqfiBRRrBaDkl2Zm10k05x3lNnzgiC7_okFUtF5rynPfCTSSbB3tyUrXM6HBG6hLQWnjYOmv_wGJ_rUs-J3kgs5Z-XERfuKDC34QRU9o0LStjIhEiyv7axweE3PvjKu9B2ZhBa0cPe-S033CXC5u09yKeX42fgN8vf9Q?session=0&fife https://doc-14-14-mymaps.googleusercontent.com/untrusted/hostedimage/odiarddut9neqsjom2t7q2ph00/mnti7chs0m5553khd50vrllhps/1597862578000/td0Buq8W9LYKmsDXrJ3Td8fOwI-YbLO1/05934201298531098556/5AF2TALqB0XkMFz5IkKK_9xrwAlkDXHSW9KIkveN3Z7Bz9G_Xe8eMNqWuTAA9QKMtsVMQxlNRs-jq8zJRwNaOYchNesJRqPtPRW-s3PTGQC9uL8lyIsj3tt5p07oXrd6GPepq2uCDtQfiuFNKT7__3SnCQ6NiiO_OpT_YW6TXZuxptSNqE1BvDv8simdga9f71zDKwo22scpe-YlQte7z8sF6-kMv4dfYXHfY-HGOPlBbfLbJnAyYv3AJHhPVjgKC58VqF9ft5cVK5Ua30_7vxzVAXBQh6MapjQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.9433666,40.7245026,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Step Ledges</name>
+      <description><![CDATA[<img src="https://doc-00-14-mymaps.googleusercontent.com/untrusted/hostedimage/odiarddut9neqsjom2t7q2ph00/79fqgm54gon0lln6aigrtva6vs/1597862578000/td0Buq8W9LYKmsDXrJ3Td8fOwI-YbLO1/05934201298531098556/5AF2TALq8DSw1CfTS7jUyBtGGej4rize6fD5EXJ-i2EStinNSdXraMh-SzjLlYQYOr_nLeo2TZdzyIZX36tjeCl6NrcZSZGxgBYmqG-BYuZZOn4o3X4_tNtwvNnkLdEs0xQAQsMOfdQjuyGiQBSxVaYF2b9Lc1A8-0zrZhCeSuLFjkRifqya6QOo2p7eSCbsjdeo5dL6PEkkCxS7Xj709JrLjrxFZegMM64PiAaIzEB0_UALntm5RzuXzsPDcj0bSRoLIzA-y7OhusLpIeSjNwiPBYaBc5vMofw?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-14-mymaps.googleusercontent.com/untrusted/hostedimage/odiarddut9neqsjom2t7q2ph00/79fqgm54gon0lln6aigrtva6vs/1597862578000/td0Buq8W9LYKmsDXrJ3Td8fOwI-YbLO1/05934201298531098556/5AF2TALq8DSw1CfTS7jUyBtGGej4rize6fD5EXJ-i2EStinNSdXraMh-SzjLlYQYOr_nLeo2TZdzyIZX36tjeCl6NrcZSZGxgBYmqG-BYuZZOn4o3X4_tNtwvNnkLdEs0xQAQsMOfdQjuyGiQBSxVaYF2b9Lc1A8-0zrZhCeSuLFjkRifqya6QOo2p7eSCbsjdeo5dL6PEkkCxS7Xj709JrLjrxFZegMM64PiAaIzEB0_UALntm5RzuXzsPDcj0bSRoLIzA-y7OhusLpIeSjNwiPBYaBc5vMofw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.9572598,40.7224486,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jackson Playground Ledge</name>
+      <description><![CDATA[<img src="https://doc-0c-14-mymaps.googleusercontent.com/untrusted/hostedimage/odiarddut9neqsjom2t7q2ph00/0ghhufvs04jn75q5sanienle0g/1597862578000/td0Buq8W9LYKmsDXrJ3Td8fOwI-YbLO1/05934201298531098556/5AF2TALrNJtLC7gMrBR1jAJWJjhJwA4HzO1wB_QfjmV7Dv02G-_6bpyxDCFYFALHLmj-ozxKHvVW6Na0qFfBs-obciEAJGzCSOr0DS0XeKUBv9UHSGjhpvcht_mppmerDsEyEFysgQaiespBUjrpRSufzLrDjp0dsHi3Y2VCrSpZjlXt9F5B4FxP3YiZv8NlZUfvxYUKuVHoX9Uf64FCSVxnn4Bk6AKEabxhi6exYRVXXtn6JQybg2xga2JeBJxWurC6MDqn89IAh1ktznfPXWjSJRVt9-GtPAw?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0c-14-mymaps.googleusercontent.com/untrusted/hostedimage/odiarddut9neqsjom2t7q2ph00/0ghhufvs04jn75q5sanienle0g/1597862578000/td0Buq8W9LYKmsDXrJ3Td8fOwI-YbLO1/05934201298531098556/5AF2TALrNJtLC7gMrBR1jAJWJjhJwA4HzO1wB_QfjmV7Dv02G-_6bpyxDCFYFALHLmj-ozxKHvVW6Na0qFfBs-obciEAJGzCSOr0DS0XeKUBv9UHSGjhpvcht_mppmerDsEyEFysgQaiespBUjrpRSufzLrDjp0dsHi3Y2VCrSpZjlXt9F5B4FxP3YiZv8NlZUfvxYUKuVHoX9Uf64FCSVxnn4Bk6AKEabxhi6exYRVXXtn6JQybg2xga2JeBJxWurC6MDqn89IAh1ktznfPXWjSJRVt9-GtPAw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.9812498,40.7139624,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Micro Ledge</name>
+      <description><![CDATA[<img src="https://doc-0s-14-mymaps.googleusercontent.com/untrusted/hostedimage/odiarddut9neqsjom2t7q2ph00/ispkn5s5pt9cj8cfutnrkjmu0o/1597862578000/td0Buq8W9LYKmsDXrJ3Td8fOwI-YbLO1/05934201298531098556/5AF2TALp-VXqHJIvHLkfg_YcCfRT6u7HHlTyqWNp6r9WJchM6Mmw_U7SmqdiERl8Z7TeVGvc2hDnR7QEdmgbNQ8E6E8CgagzSaunqBMz5Z4R1pms9L9IfaS8oav7O_UggycNOkW53YNmMGNS5pTrO--061Ztf6b-T2GyAc44RqGziJGdypptY41pPI05dMSFXt3ruY7iskXdQNP8aRKiubWCqNghRMd_tBEXEemmu6rYdUt82FU92FmORBqrTmBP6IEKU79-Obys17z9OrgZQO4Lx1MU7iqwQlw?session=0&fife" height="200" width="auto" /><br><br>Bring Tech Decks]]></description>
+      <styleUrl>#icon-503-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-14-mymaps.googleusercontent.com/untrusted/hostedimage/odiarddut9neqsjom2t7q2ph00/ispkn5s5pt9cj8cfutnrkjmu0o/1597862578000/td0Buq8W9LYKmsDXrJ3Td8fOwI-YbLO1/05934201298531098556/5AF2TALp-VXqHJIvHLkfg_YcCfRT6u7HHlTyqWNp6r9WJchM6Mmw_U7SmqdiERl8Z7TeVGvc2hDnR7QEdmgbNQ8E6E8CgagzSaunqBMz5Z4R1pms9L9IfaS8oav7O_UggycNOkW53YNmMGNS5pTrO--061Ztf6b-T2GyAc44RqGziJGdypptY41pPI05dMSFXt3ruY7iskXdQNP8aRKiubWCqNghRMd_tBEXEemmu6rYdUt82FU92FmORBqrTmBP6IEKU79-Obys17z9OrgZQO4Lx1MU7iqwQlw?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -73.9850994,40.7315108,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

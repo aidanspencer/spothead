@@ -1,0 +1,17 @@
+html, body{
+    height: 100%;
+}
+#map {
+   height: 50%;
+   width: 100%;
+   overflow: hidden;
+   float: left;
+}
+#info {
+   height: 50%;
+   width: 100%;
+   overflow: hidden;
+   float: left;
+   background-color: #ECECFB;
+   border-left: none;
+}
