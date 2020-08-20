@@ -9,7 +9,7 @@ function initMap() {
       lng: -73.98
     },
     zoom: 14,
-    madId: '76ff22fd4c606c56'
+    mapId: '76ff22fd4c606c56'
   });
 
     var src = 'https://raw.githubusercontent.com/aidanspencer/spothead/master/Spothead%20Folderless.kml';
