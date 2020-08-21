@@ -2,16 +2,20 @@ html, body{
     height: 100%;
 }
 #map {
-   height: 50%;
+   height: 100%;
    width: 100%;
    overflow: hidden;
    float: left;
+   z-index: 1;
+   position: fixed;
 }
 #info {
-   height: 50%;
-   width: 100%;
+   height: 100%;
+   width: 200;
    overflow: hidden;
    float: left;
+   z-index: 2;
+   position: fixed;
    background-color: #ECECFB;
    border-left: none;
 }

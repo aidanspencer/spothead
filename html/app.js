@@ -38,7 +38,7 @@ function initMap() {
       infoWindow.setContent('Your Location');
       infoWindow.open(map);
       map.setCenter(pos);
-      map.zoom = 14;
+      map.setZoom(14);
     }, function() {
       handleLocationError(true, infoWindow, map.getCenter());
     });
