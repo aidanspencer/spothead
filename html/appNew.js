@@ -12,7 +12,7 @@ function initMap() {
     mapId: '76ff22fd4c606c56'
   });
 
-    var src = 'https://raw.githubusercontent.com/aidanspencer/spothead/master/Spothead%20Folderless.kml';
+    var src = 'https://raw.githubusercontent.com/aidanspencer/spothead/master/html/Spothead%20Folderless.kml';
     kmlLayer = new google.maps.KmlLayer(src, {
         suppressInfoWindows: true,
         preserveViewport: false,
