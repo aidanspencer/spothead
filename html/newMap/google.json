@@ -3,6 +3,17 @@
     "features": [
       {
         "type": "Feature",
+        "geometry":{
+            "type": "Point",
+            "coordinates": [42.036040, -70.610791]
+        },
+        "properties":{
+            "name": "Somewhere in Massachusetts"
+        }
+      },
+
+      {
+        "type": "Feature",
         "properties": {
           "letter": "G",
           "color": "blue",
