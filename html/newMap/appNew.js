@@ -24,7 +24,8 @@ function initMap() {
       testimonial.innerHTML = content;
   });
 
-  map.data.loadGeoJson('https://storage.googleapis.com/mapsdevsite/json/google.json');
+  //map.data.loadGeoJson('https://storage.googleapis.com/mapsdevsite/json/google.json');
+  map.data.loadGeoJson('https://raw.githubusercontent.com/aidanspencer/spothead/master/html/newMap/google.json');
 
   //localStorage.setItem("google.json",myJSON);)
   //map.data.loadGeoJson(localStorage.getItem(myJSON));
