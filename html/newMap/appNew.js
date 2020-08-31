@@ -12,17 +12,22 @@ function initMap() {
     mapId: '76ff22fd4c606c56'
   });
 
-    var src = 'https://raw.githubusercontent.com/aidanspencer/spothead/master/html/Spothead%20Folderless.kml';
-    kmlLayer = new google.maps.KmlLayer(src, {
-        suppressInfoWindows: true,
-        preserveViewport: false,
-        map: map
-    });
-    kmlLayer.addListener('click', function(event) {
-        var content = event.featureData.infoWindowHtml;
-        var testimonial = document.getElementById('info');
-        testimonial.innerHTML = content;
-    });
+  var src = 'https://raw.githubusercontent.com/aidanspencer/spothead/master/html/Spothead%20Folderless.kml';
+  kmlLayer = new google.maps.KmlLayer(src, {
+      suppressInfoWindows: true,
+      preserveViewport: false,
+      map: map
+  });
+  kmlLayer.addListener('click', function(event) {
+      var content = event.featureData.infoWindowHtml;
+      var testimonial = document.getElementById('info');
+      testimonial.innerHTML = content;
+  });
+
+  map.data.loadGeoJson('https://storage.googleapis.com/mapsdevsite/json/google.json');
+
+  //localStorage.setItem("google.json",myJSON);)
+  //map.data.loadGeoJson(localStorage.getItem(myJSON));
 
   infoWindow = new google.maps.InfoWindow;
 
